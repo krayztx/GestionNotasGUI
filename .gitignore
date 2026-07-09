@@ -1,0 +1,12 @@
+# Credenciales — NUNCA subir esto a Git
+.env
+
+# Archivos generados por Maven
+target/
+
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
