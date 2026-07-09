@@ -152,4 +152,5 @@ Proyecto desarrollado como parte del curso de Ingeniería de Sistemas, aplicando
 ## Autores
 
 **Kristopher Pacheco Arnao** — [@krayztx](https://github.com/krayztx)
-**Gonzalo Tasayco Lopez** — [@]()
+**Gonzalo Tasayco Lopez** — [@gonztl222](https://github.com/gonztl222
+)
